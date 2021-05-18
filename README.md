@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willfloersheimer
-- 👀 I’m interested in using my banking/finance background in my programming to
+- 👀 I’m interested in using my banking/finance background in my programming
 - 🌱 I’m currently learning python, java, and trying to make my way through the data scientist field
 - 📫 How to reach me ...
 - Email:  info@WillFloersheimer.com
