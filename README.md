@@ -2,7 +2,6 @@
 - 👀 I’m interested in using my banking/finance background in my programming
 - 🌱 I’m currently learning python, java, and trying to make my way through the data scientist field
 - 📫 How to reach me ...
-- Email:  info@WillFloersheimer.com
 - https://www.facebook.com/will.floersheimer.1
 - https://twitter.com/WFloersheimer
 
