@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="ZCZ1BUWszQTX5_kvAzit4ykwsi7Yc7gY2xaRClRYjBY" />
 ### Hi there 👋
 
 <!--
