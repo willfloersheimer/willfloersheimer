@@ -2,7 +2,6 @@
 
 <!--
 **willfloersheimer/willfloersheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<meta name="google-site-verification" content="ZCZ1BUWszQTX5_kvAzit4ykwsi7Yc7gY2xaRClRYjBY" />
 Here are some ideas to get you started:
 👋 Hi, I’m @willfloersheimer
 👀 I’m interested in using my banking/finance background in my programming
